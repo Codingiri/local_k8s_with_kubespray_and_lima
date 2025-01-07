@@ -1,5 +1,7 @@
 # Simplify Kubernetes Deployment: Local Cluster Setup with Lima VMs and Kubespray
-Learn how to deploy a fully functional Kubernetes cluster locally using Lima VMs and Kubespray. This step-by-step guide walks you through setting up virtual machines, provisioning Kubernetes, configuring access with kubeconfig, and cleaning up resources. Perfect for developers and system administrators, this tutorial provides a cost-effective and flexible way to explore Kubernetes without relying on cloud resources.
+Learn how to deploy a fully functional Kubernetes cluster locally using Lima VMs and Kubespray.
+
+![tech_used](./tech.png)
 
 ## Introduction
 This guide provides a step-by-step process to set up a local Kubernetes cluster using Lima virtual machines (VMs) and Kubespray. It is designed for developers and system administrators who want to test, learn, or experiment with Kubernetes in a local environment. By leveraging Lima VMs, you can simulate a multi-node Kubernetes cluster without requiring cloud resources, enabling a cost-effective and flexible setup.
